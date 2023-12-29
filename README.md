@@ -149,6 +149,14 @@ C:. <br>
 
 <br>
 
+### 프레임워크
+<div style="width: 200px; height: 100px;">
+  <img src="https://img.shields.io/badge/Lombok-C8202F?style=for-the-badge&logo=기술스택아이콘&logoColor=white" width="180" height="80"> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" width="180" height="80">
+</div>
+
+<br>
+
 ### 데이터베이스
 <div style="width: 200px; height: 100px;">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="180" height="80">
@@ -159,6 +167,7 @@ C:. <br>
 <div style="width: 200px; height: 100px;">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" width="180" height="80">
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="180" height="80">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 <br>
 
@@ -171,7 +180,6 @@ C:. <br>
 ### 협업 툴
 <div style="width: 200px; height: 100px;">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" width="180" height="80">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="180" height="80">
 </div>
 <br>
 
