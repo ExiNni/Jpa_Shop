@@ -167,7 +167,6 @@ C:. <br>
 <div style="width: 200px; height: 100px;">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" width="180" height="80">
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="180" height="80">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 <br>
 
