@@ -20,11 +20,11 @@
 <br>
 
 <p align="justify">
-C:.<br>
-│  .classpath<br>
-│  .gitignore<br>
-│  .project<br>
-│<br>
+C:. <br>
+│  .classpath <br>
+│  .gitignore <br>
+│  .project <br>
+│ <br>
 ├─bin<br>
 │  └─com<br>
 │      └─kh<br>
