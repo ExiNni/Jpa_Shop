@@ -151,7 +151,7 @@ C:. <br>
 
 ### 프레임워크
 <div style="width: 200px; height: 100px;">
-  <img src="https://img.shields.io/badge/Lombok-C8202F?style=for-the-badge&logoColor=white" width="180" height="80"> 
+  <img src="https://img.shields.io/badge/Lombok-C8202F?style=for-the-badge&logo=javalogoColor=white" width="180" height="80"> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" width="180" height="80">
 </div>
 
