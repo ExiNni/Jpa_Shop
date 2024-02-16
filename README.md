@@ -1,11 +1,5 @@
 # JPA로 구현한 쇼핑몰
 
-<p align="center">
-  <br>
-  <img src="https://github.com/ExiNni/semi_EJ/blob/master/%EB%96%A0%EB%82%98%EC%A1%B0%20%EB%A9%94%EC%9D%B8.PNG">
-  <br>
-</p>
-  
 ## 0. 목차
 1. 프로젝트 소개
 2. 기술 스택
@@ -14,11 +8,6 @@
  
 ## 1. 프로젝트 소개
  
-<p align="justify">
-프로젝트를 만들게 된 개요나 동기를 작성해주세요.
-</p>
-<br>
-
 <p align="justify">
 C:. <br>
 │  .classpath <br>
